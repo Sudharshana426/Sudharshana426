@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![<Badge Name>](https://cdn.hackernoon.com/images/itAdCg4hR9MQ99O0VxSivIU8QEk2-2023-11-17T11:16:53.464Z-bdrgugw0rrz6hf86cz69nzzk)
+
 <!--
 **Sudharshana426/Sudharshana426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
